@@ -1,2 +1,3 @@
 # gitpractice-demo
-this is my git practice repository
+this is my git practice repository.
+Authoe- Bharti Basumatary
